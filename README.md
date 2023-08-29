@@ -15,7 +15,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Carlos Gabriel Silva Costa
 * Enzo Kurt Sales Almeida
 * Henrique Taite Mendes
-* Jhonatan
+* Jhonatan Agni Batista
 * Josiane Teixeira de Vasconcelos
 * Natã de Araujo Ladeia
 * Victor Luiz Ribeiro de Oliveira
