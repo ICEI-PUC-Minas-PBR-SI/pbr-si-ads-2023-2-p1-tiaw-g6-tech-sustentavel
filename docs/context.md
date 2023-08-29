@@ -1,19 +1,26 @@
 # Introdução
+A economia mundial globalizada, o uso da web traz consigo maior velocidade e volatilidade das transações de mercado. 
+Se antes grande parte das empresas já trabalhavam com e-commerce, no contexto atual fica claramente evidenciado um grande aumento deste tipo de venda.  
 
-Imagine que você deseja apresentar este projeto para investidores que deverão decidir se investem ou não no desenvolvimento da sua ferramenta.
+A partir uma simples pesquisa no google, diversos sites fazem indicação e propagandas de produtos relacionados com foco em impulsionar vendas pela internet.
 
-A **Introdução** consiste das etapas: *Contextualização -- Definição do problema -- Definição dos Objetivos -- Justificativa*, e tem como função situar o seu trabalho dentro de um contexto de mercado e mostrar a importância da sua proposta para resolver a dor de um usuário.
+De acordo com o Portal Industria (2023) Desenvolvimento sustentável é aquele capaz de suprir as necessidades atuais, sem comprometer a capacidade de atendimento das futuras gerações.
 
+O consumo acelerado de produtos e serviços, a obsolesencia programada faz com que diversos consumidores tenham que trocar produtos estragados ou comprometidos  por outros produtos mais novos com muita frequência, as vezes produtos novos possuem as mesmas funções de que seus antecessores. 
 
-A Contextualização deve situar sem projeto em um determinado contexto de mercado, a fim de fornecer informações adicionais que possam ajudar a entender melhor o assunto que você irá abordar. Serve também para definir a relevância do seu assunto, uma vez que mostra o tamanho do mercado em que se está inserido. Ela pode envolver a análise de vários aspectos, como o ambiente histórico, cultural, político e social em que o problema a ser atacado surgiu.
+De acordo com Macêdo (2009), os Estados Unidos descartam diversos produtos eletrônicos, poucos são recilados e o restante acaba em lixões. 
 
-Escreva de 2 a 3 parágrafos para contetualizar o seu projeto.
+Esta não é apenas a realidade dos EUA, mas também dem muitos outros países. 
+
+Neste contexto a solução a ser desenvolvida é um site eccomerce  de produtos eletrônicos e de informáica, 
+mais ligados do hardware que realiza a venda de produtos novos mas que também faz a coleta, manunteção, avaliação de produtos eletrônicos seminovos. 
+
+Que podem ser vendidos por um preço mais em conta e que podem ser reutilizados por outras pessoas que geralmente não possuem condições de pagar por produto novos, podemos 
+suprir as necessidades atuais de pessoas que as vezes não tem acesso a estes eletrônicos e acesso à tecnologia, tornando o mundo cada vez mais conectado.
 
 ## Problema
 
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
-
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+A falta de opções para descarte de produtos eletrônicos e de informática, como levar produtos de informática para pessoas que não possuem condições de adquirir um produto novo. 
 
 Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
 
@@ -24,26 +31,27 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+1 - Desenvolver uma aplicação Web com HTML/CSS/JavaScript que irá conectar o público aos produtos eletrônicos disponíveis no site.
+2 - Diminuir o quantidade de possíveis lixos eletrônicos.
+3 - Facilitar o acesso a tecnologia
  
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+Diante da economia globalizada e do aumento do comércio online, um site de produtos eletrônicos e informática é crucial. Ele não apenas acompanha a mudança no comportamento do consumidor, mas também abraça o desenvolvimento sustentável, oferecendo produtos seminovos, reduzindo a obsolescência e o desperdício. Além disso, proporciona acesso a tecnologia para aqueles com recursos limitados, conectando o mundo de forma mais inclusiva e consciente. Ao reutilizar produtos, o site combate o descarte inadequado e, ao mesmo tempo, cria oportunidades de educação e crescimento, destacando-se como uma solução moderna e responsável.
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+- Consumidores consientes
+- Defensores da sustentabilidade
+- Pessoas com orçamento limitado
+- Colecionadores
+- Pessoas interessadas em reparos manutenção.
 
 Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
 
