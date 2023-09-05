@@ -7,25 +7,23 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 ## Personas
 
 
-# COLECIONADOR
+### COLECIONADOR
 José Antônio, 62 anos. Seu Hobby é colecionar produtos relacionados a tecnologia e apreciar antiguidades no geral. Trabalha lecionando introdução à computação na universidade federal do Rio de Janeiro. José é sereno, brincalhão e fala muito sobre tecnologia com seus netos. O sonho dele, em 20 anos, é ter construído um museu tecnológico. 
 
-# DOADORA
+### DOADORA
 Bianca Pereira, 39 anos. Tem como um dos seus maiores objetivos ajudar pessoas que querem entrar na área de tecnologia, mas não têm condições financeiras nem acesso à área. Bianca é dona de uma escola particular em Manaus, é altruísta, empática e está sempre ouvindo e tentando ajudar as pessoas. O sonho dela é que todos brasileiros carentes tenham acesso à educação de qualquer curso que queiram fazer.
 
-# PESSOA CARENTE  
+### PESSOA CARENTE  
 Lucas dos Santos, 15 anos, é um estudante carente do ensino médio em uma escola estadual de Macapá. O hobby dele é jogar jogos de computador e consertar hardwares de alguns conhecidos de sua região. Lucas é tímido, mas conquista todas as pessoas que conhece, com sua serenidade e bom coração. O sonho de Lucas é fazer Ciências de Computação e ter a sua própria empresa ligada à área.
 
-# ESTUDANTE ABASTADO
+### ESTUDANTE ABASTADO
 João Victor de Oliveira, 23 anos, é um estudante de classe média alta, faz curso de Sistemas de Informação em uma universidade particular de Brasília e gosta de sempre renovar seus equipamentos tecnológicos. João não se dá muito bem com os pais, mas tem tudo o que precisa e muito mais. Apesar de tudo, João tem empatia com pessoas que precisam e, em vez de simplesmente descartar seus hardwares que ele gosta de trocar frequentemente, ele deseja doar para pessoas que necessitam. Seu sonho é ter uma empresa de venda e troca de hardwares.
 
-# RECÉM APROVADA NO VESTIBULAR
+### RECÉM APROVADA NO VESTIBULAR
 Talita Gonçalves, 19 anos, mora em Santa Maria no Rio Grande do Sul e acabou de ser aprovada no vestibular de Análise e Desenvolvimento de Sistemas. A faculdade que Talita vai estudar é particular, ela tem condições de bancar a mensalidade, porém não consegue, neste momento, comprar os equipamentos eletrônicos novos necessários para seus estudos. Talita é batalhadora, comunicativa e tem o sonho de entrar para a área de tecnologia e construir um programa que supere o chat GPT.
 
-# DONO DO CURSO DE INFORMÁTICA
+### DONO DO CURSO DE INFORMÁTICA
 Leandro Siqueira, 45 anos, é formado em ciências da computação e pretende montar um curso de informática. Ele não tem condições de fazer 100% de investimento em equipamentos novos, por isso precisa de adquirir alguns equipamentos usados e em bom uso. Leandro gosta muito de ensinar sobre tecnologia para jovens e seu sonho é conseguir montar uma rede de escolas de informática pelo estado de Pernambuco, onde reside atualmente. 
-
-
 
 
 
