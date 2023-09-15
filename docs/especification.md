@@ -40,21 +40,23 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+HISTÓRIA COLECIONADOR
+Eu como colecionador gostaria que tivesse uma opção de ordenar os itens por data de fabricação, para ter equipamentos mais antigos para minha coleção. 
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+HISTÓRIA ESTUDANTE ABASTADO
+Eu como estudante abastado gostaria que houvesse uma categoria com avaliação dos produtos de 1 a 5 estrelas, onde vou buscar sempre o mais bem avaliado.
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
+HISTÓRIA DOADOR
+Eu como doador gostaria de receber algum meio de contato dos usuários que realmente necessitem de doação.
 
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
+HISTÓRIA DONO DE CURSO DE INFORMÁTICA
+Eu como dono de um curso de informática gostaria de poder pesquisar de forma específica o item que vou adquirir, por marca e modelo. Peço também um desconto a partir de certa quantia de itens comprados.
+
+HISTÓRIA PESSOA DE BAIXA RENDA
+Eu como uma pessoa de baixa renda gostaria de poder ordenar minha pesquisa por preço, de modo que encontre produtos em bom estado, baixo preço, ou que estejam disponíveis para doação.
+
+HISTÓRIA RECÉM APROVADO NO VESTIBULAR 
+Eu como recém aprovado no vestibular gostaria de ordenar minha pesquisa por estado de conservação dos itens, de forma a conseguir produtos mais bem cuidados e novos que não me deixem na mão durante todo o curso.
 
 ## Requisitos
 
