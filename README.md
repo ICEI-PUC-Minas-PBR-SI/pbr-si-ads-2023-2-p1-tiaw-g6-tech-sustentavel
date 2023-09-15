@@ -19,6 +19,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Josiane Teixeira de Vasconcelos
 * Natã de Araujo Ladeia
 * Victor Luiz Ribeiro de Oliveira
+* Geanderson Gabriel Pereira Lima
 
 ## Orientador
 
