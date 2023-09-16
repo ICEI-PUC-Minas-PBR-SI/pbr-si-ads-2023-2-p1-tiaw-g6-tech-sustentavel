@@ -66,13 +66,13 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade | Responsável |
 |------|-----------------------------------------|----| ----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA |  |
-|RF-002| Login com redes sociais| MEDIA|   |
-|RF-003| Listagem de Produtos| ALTA|  |
-|RF-004| Adicionar detalhes do produto|	ALTA |  |
-|RF-005| Upload de fotos dos produtos| ALTA |   |
-|RF-006| Pesquisa de produtos por categoria| ALTA|  |
-|RF-007| Emitir um relatório de tarefas no mês   | MÉDIA | |
+|RF-001| Permitir que o usuário cadastre tarefas | ALTA | Carlos Gabriel Silva Costa |
+|RF-002| Login com redes sociais| MEDIA| Enzo Kurt Sales Almeida  |
+|RF-003| Listagem de Produtos| ALTA| Geanderson Gabriel Pereira Lima |
+|RF-004| Adicionar detalhes do produto|	ALTA | Henrique Taite Mendes  |
+|RF-005| Upload de fotos dos produtos| ALTA |  Jhonatan Agni Batista |
+|RF-006| Pesquisa de produtos por categoria| ALTA|  Natã De Araújo Ladeia |
+|RF-007| Emitir um relatório de tarefas no mês   | MÉDIA | Victor Luiz Ribeiro de Oliveira |
 
 
 ### Requisitos não Funcionais
