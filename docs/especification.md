@@ -66,7 +66,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade | Responsável |
 |------|-----------------------------------------|----| ----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA |  |
+|RF-001| Permitir que o usuário cadastre tarefas | ALTA | Geanderson Gabriel|
 |RF-002| Emitir um relatório de tarefas no mês   | MÉDIA | |
 
 
