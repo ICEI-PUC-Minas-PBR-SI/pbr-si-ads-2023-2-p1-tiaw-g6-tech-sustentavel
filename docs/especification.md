@@ -68,6 +68,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |------|-----------------------------------------|----| ----|
 |RF-001| Permitir que o usuário cadastre tarefas | ALTA |  |
 |RF-002| Usuário do Sistema	|Personalizar meu perfil	Expressar |minha personalidade na plataforma| Geanderson Gabriel|
+|RF-003|Usuário do Sistema |Configurar notificações	|Ser alertado sobre atividades importantes na plataforma|
 |RF-002| Emitir um relatório de tarefas no mês   | MÉDIA | |
 
 
