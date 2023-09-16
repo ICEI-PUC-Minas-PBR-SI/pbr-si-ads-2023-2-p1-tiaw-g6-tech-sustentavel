@@ -25,6 +25,10 @@ Talita Gonçalves, 19 anos, mora em Santa Maria no Rio Grande do Sul e acabou de
 ### DONO DO CURSO DE INFORMÁTICA
 Leandro Siqueira, 45 anos, é formado em ciências da computação e pretende montar um curso de informática. Ele não tem condições de fazer 100% de investimento em equipamentos novos, por isso precisa de adquirir alguns equipamentos usados e em bom uso. Leandro gosta muito de ensinar sobre tecnologia para jovens e seu sonho é conseguir montar uma rede de escolas de informática pelo estado de Pernambuco, onde reside atualmente. 
 
+### EMPREENDEDOR DE TECNOLOGIA
+Ricardo Silva, 30 anos, é um empreendedor apaixonado por tecnologia. Ele fundou sua própria startup de desenvolvimento de aplicativos móveis em São Paulo. Ricardo é inovador, dedicado e adora desafios tecnológicos. Ele trabalha incansavelmente para tornar sua empresa um sucesso e está sempre buscando as últimas tendências em tecnologia para aplicar em seus projetos. Seu sonho é expandir sua startup globalmente e impactar positivamente a vida das pessoas por meio de soluções tecnológicas inovadoras.
+Ricardo também acredita na importância de dar oportunidades a jovens talentosos que não têm acesso às melhores condições de ensino. Ele planeja estabelecer programas de mentoria e estágios remunerados em sua empresa para ajudar jovens como Lucas dos Santos a desenvolver suas habilidades e seguir carreiras de sucesso na área de tecnologia.
+Essa persona representa um empreendedor ambicioso e altruísta que busca o sucesso nos negócios, mas também valoriza a responsabilidade social e o apoio à próxima geração de talentos na tecnologia.
 
 
 
