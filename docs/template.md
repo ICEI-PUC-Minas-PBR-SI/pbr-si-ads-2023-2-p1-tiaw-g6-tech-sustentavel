@@ -28,6 +28,7 @@ Nosso site e a proposta do negócio está totalmente relacionada com sustentabil
 
 ## Tipografia
 ![Arial](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-g6-tech-sustentavel/assets/142277683/4598f60c-e6d8-405f-b52a-f6b0638796d9)
+
 Apresente as fontes que serão utilizadas e sua função no site. As principais funções são: Título de página, Título de Seção, Rótulos de componentes e Corpo de Texto.
 
 Tipografia
