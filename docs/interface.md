@@ -10,6 +10,7 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 ![Solicitações](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-g6-tech-sustentavel/assets/142853949/4ca716c9-a061-4ff6-aab1-935a5722f089)
 
 Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
+
 O retângulo preto simboliza a página inicial é aonde iniciará o fluxo do usuário, as opções que estão em amarelo são as opções de escolha que o usuário tem que fazer para navegar para as próximas páginas, ao clicar nas opções de amarelo por exemplo nas opções de login, precisa de doação, ou seja um doador o usuário tem que tomar uma decisão para continuar o fluxo, caso seja positivo o login outra página será aberta para que seja preenchido os dados de login e assim seguir o fluxo para as próximas páginas relacionadas, caso seja negativo a opção de fazer login o usuário retorna na página inicial.  Os retângulos azuis simbolizam  outros subfluxos/subpáginas que são abertas após a seleção das opções iniciais.
 
 > **Links Úteis**:
