@@ -35,6 +35,7 @@ Utilizaremos fontes sem serifas, conforme exposto na disciplina de Desenvolvimen
 
 
 ## Iconografia
+> ![MicrosoftTeams-image](https://user-images.githubusercontent.com/142277683/273404885-c476bed3-59b8-4ef3-a2d9-3437bcb6a39c.png)
 
 Defina os ícones que serão utilizados e suas respectivas funções.
 
