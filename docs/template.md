@@ -44,10 +44,6 @@ Outras seções podem ser adicionadas neste documento para apresentar padrões d
 
 A logo principal do site estará presente na construção do site, além disso ícones que simbolizem fechamento de janelas, ícones que simbolizam formas de entrar em contato, ações que podem ser realizadas estarão presentes no site.
 
-https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-g6-tech-sustentavel/issues/13#issue-1931470039
-
-https://user-images.githubusercontent.com/142277683/273404885-c476bed3-59b8-4ef3-a2d9-3437bcb6a39c.png
-
 
 > **Links Úteis**:
 >
