@@ -11,7 +11,7 @@ A logo do sistema ficará localizada no canto superior esquerdo, seguindo os pad
  
 Segundo Norman que é um dos grandes pensadores de Interação Humano Computador na criação de sistema interativo o Design,  a construção de um sistema interativo deve possuir visibilidade, os usuários devem saber como interagir com as opções do sistema sem muito esforço, o sistema deve dar feedbacks para que seja mostrado o estado, a situação atual de suas ações, consistência e organização das informações.
 
-
+![WhatsApp Image 2023-10-03 at 12 58 25 (1)](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-g6-tech-sustentavel/assets/142277683/05ecd82e-eb45-4a12-90fd-ab29b22963cc)
 ## Cores
 
 Foi utilizado o Adobe color para a seleção de cores que serão utilizadas na construção do site, utilizamos a opção cores análogas. De acordo com o Portal da Academia Brasileira de Arte (https://abra.com.br/artigos/teoria-das-cores/) , acessado em outubro de 2023. As cores análogas são cores vizinhas, são um conjunto de cores que estão próximas umas das outras no círculo cromático. Elas compartilham tons semelhantes e geralmente se harmonizam bem quando usadas em conjunto.
