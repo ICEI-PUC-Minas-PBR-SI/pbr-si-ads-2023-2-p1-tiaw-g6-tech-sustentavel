@@ -32,6 +32,7 @@ Apresente as fontes que serão utilizadas e sua função no site. As principais 
 
 Tipografia
 Utilizaremos fontes sem serifas, conforme exposto na disciplina de Desenvolvimento de Aplicações Web, fontes sem serifas oferecem maior visibilidade, acessibilidade pois tendem a serem mais legíveis
+![Arial](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-g6-tech-sustentavel/assets/142277683/4598f60c-e6d8-405f-b52a-f6b0638796d9)
 
 
 ## Iconografia
