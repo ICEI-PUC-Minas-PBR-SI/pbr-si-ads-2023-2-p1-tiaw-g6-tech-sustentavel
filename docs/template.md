@@ -7,8 +7,8 @@ Explique as guias de estilo utilizadas no seu projeto.
 O site será dividido em um cabeçalho com diversas opções de acesso às funcionalidades e uma barra de pesquisa, um carrousel com produtos em destaque, uma seção para quem deseja ser doador e outra seção para quem precisa de doações, uma cabeçalho com outras opções.
  
 Ao abrir as opções onde terão as funcionalidades outras janela complementares serão abertas para dar prosseguimento no fluxo de navegação do usuário conforme o UserFlow exposto anteriormente
-![MicrosoftTeams-image (2)](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-g6-tech-sustentavel/assets/142277683/10db6410-5d56-44f3-8752-6eac5a3555d5)
 
+![MicrosoftTeams-image (2)](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-g6-tech-sustentavel/assets/142277683/10db6410-5d56-44f3-8752-6eac5a3555d5)
 ## Design
 
 Detalhe os layouts que serão utilizados. Apresente onde será colocado o logo do sistema. Defina os menus padrões, entre outras coisas.
