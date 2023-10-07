@@ -1,4 +1,5 @@
 # Template padrão do site
+![MicrosoftTeams-image (2)](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-g6-tech-sustentavel/assets/142277683/10db6410-5d56-44f3-8752-6eac5a3555d5)
 
 Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
 
