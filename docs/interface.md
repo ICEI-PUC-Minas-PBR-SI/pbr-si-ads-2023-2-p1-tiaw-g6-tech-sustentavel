@@ -25,8 +25,7 @@ São protótipos usados em design de interface para sugerir a estrutura de um si
 
 A tela Inicial apresenta um cabeçalho onde se encontram a logo, uma barra de pesquisa, o login e algumas especificações do site. Um carousel e algumas especificações para doadores
 
-![WhatsApp Image 2023-10-07 at 17 33 13](https://user-images.githubusercontent.com/142853949/273414068-c4923e13-87b2-4824-9550-dfe2c958e265.jpeg)
-
+![WhatsApp Image 2023-10-03 at 12 58 25](https://user-images.githubusercontent.com/142853949/273414174-811250c5-ce62-450e-a873-734f02b9ad74.jpeg)
  
 > **Links Úteis**:
 > - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
