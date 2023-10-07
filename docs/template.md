@@ -17,6 +17,7 @@ A logo do sistema ficará localizada no canto superior esquerdo, seguindo os pad
 Segundo Norman que é um dos grandes pensadores de Interação Humano Computador na criação de sistema interativo o Design,  a construção de um sistema interativo deve possuir visibilidade, os usuários devem saber como interagir com as opções do sistema sem muito esforço, o sistema deve dar feedbacks para que seja mostrado o estado, a situação atual de suas ações, consistência e organização das informações.
 
 ## Cores
+![Paleta escolhida](img/https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-g6-tech-sustentavel/issues/11#issue-1931456805)
 
 Apresente a paleta de cores que será utilizada. Uma ferramenta interessante para a criação de palestas de cores é o *Adobe Color* ([https://color.adobe.com/pt/create/color-wheel](https://color.adobe.com/pt/create/color-wheel)).
 
