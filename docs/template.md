@@ -27,6 +27,8 @@ Utilizaremos fontes sem serifas, conforme exposto na disciplina de Desenvolvimen
 A logo principal do site estará presente na construção do site, além disso ícones que simbolizem fechamento de janelas, ícones que simbolizam formas de entrar em contato, ações que podem ser realizadas estarão presentes no site.
 
 ![MicrosoftTeams-image](https://user-images.githubusercontent.com/142277683/273404885-c476bed3-59b8-4ef3-a2d9-3437bcb6a39c.png)
+![icone facebook](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-g6-tech-sustentavel/assets/142277683/4a72871f-abfc-44bb-8b41-c3ab625d62de)
+
 > **Links Úteis**:
 >
 > -  [Como criar um guia de estilo de design da Web](https://edrodrigues.com.br/blog/como-criar-um-guia-de-estilo-de-design-da-web/#)
