@@ -28,6 +28,12 @@ A logo principal do site estará presente na construção do site, além disso �
 
 ![MicrosoftTeams-image](https://user-images.githubusercontent.com/142277683/273404885-c476bed3-59b8-4ef3-a2d9-3437bcb6a39c.png)
 ![icone facebook](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-g6-tech-sustentavel/assets/142277683/4a72871f-abfc-44bb-8b41-c3ab625d62de)
+![icone twitter](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-g6-tech-sustentavel/assets/142277683/814c3f71-3f49-46e5-b30a-428c8133cc69)
+![google icone](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-g6-tech-sustentavel/assets/142277683/90878552-6783-4486-b0d2-fc93ebc2dacc)
+![icone instragram](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-g6-tech-sustentavel/assets/142277683/af0ebee1-8224-4ae8-923a-899536f0e837)
+![linkedin icone](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-g6-tech-sustentavel/assets/142277683/c6398be6-97f4-4ea3-8b3e-9e6ba6f7cbd2)
+![git hub icone](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-g6-tech-sustentavel/assets/142277683/ef1e8dd1-ea05-42d0-a6b9-45617cceb56e)
+![icone lupa](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-g6-tech-sustentavel/assets/142277683/69b7c46b-2333-4723-a824-8030581962bd)
 
 > **Links Úteis**:
 >
