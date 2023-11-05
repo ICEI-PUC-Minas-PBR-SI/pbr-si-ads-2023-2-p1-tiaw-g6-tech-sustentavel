@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="logo-ecotech.png" type="image/x-icon">
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css'>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+        crossorigin="anonymous"></script>
+    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+    <script src="https://kit.fontawesome.com/322047f7f4.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="produtos.css">
+    <title>Ecotech</title>
+</head>
+
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg  ">
+            <div class="container-fluid">
+                <img src="logo-ecotech.png" alt="" width="60" height="60">
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll"
+                    aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarScroll">
+                    <ul class="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll" style="--bs-scroll-height: 100px;">
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="#">Sobre nós</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Produtos</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Meus anúncios</a>
+                        </li>
+
+                    </ul>
+                    <form class="d-flex" role="search">
+                        <input class="form-control me-2" type="search" placeholder="Pesquisar" aria-label="Search">
+                        <button class="btn btn-outline-success" type="submit"><i
+                                class="fa-solid fa-magnifying-glass fa-2xs" style="color: #61bf03;"></i></button>
+                    </form>
+                </div>
+            </div>
+        </nav>
+        </nav>
+    </header>
+
+  </head>
+<link rel="stylesheet" type="text/css" href="produtos.css">
+<select name="categoria">
+<option value="todas">Todas as Categorias</option>
+    <option value="Celulares">Celulares</option>
+<option value="Notebooks">Notebooks</option>
+    <option value="Tablets">Tablets</option>
+
+
+</select>
+<div class="product-card">
+    <h2>Produto 2</h2>
+    <p>Descrição do Produto 2</p>
+    <p>Vendedor: Vendedor 2</p>
+    <div>
+        Avaliação:
+        <span class="star">&#9733;</span>
+        <span class="star">&#9733;</span>
+        <span class="star">&#9733;</span>
+        <span class="star">&#9733;</span>
+        <span class="star">&#9733;</span>
+    </div>
+</div>
+
+<div class="product-card">
+    <h2>Produto 3</h2>
+    <p>Descrição do Produto 3</p>
+    <p>Vendedor: Vendedor 3</p>
+    <div>
+        Avaliação:
+        <span class="star" onclick="rateProduct(1)">&#9733;</span>
+        <span class="star" onclick="rateProduct(1)">&#9733;</span>
+        <span class="star" onclick="rateProduct(1)">&#9733;</span>
+        <span class="star" onclick="rateProduct(1)">&#9733;</span>
+        <span class="star" onclick="rateProduct(1)">&#9733;</span>
+    </div>
+</div>
+</div>
+
+<script>
+function rateProduct(rating) {
+        var stars = document.querySelectorAll(".star")
+
+        for (var i = 0; i < stars.length; i++) {
+            if (i < rating) {
+                star[i].style.color = "gold"; // Define a cor das estrelas selecionadas
+            } else {
+                stars[i].style.color = "gray"; // Define a cor das estrelas não selecionadas
+            }
+        }
+    }
+</script>
+<footer class="text-center text-white">
+    <div class="container">
+        <section class="mt-5">
+            <div class="row text-center d-flex justify-content-center pt-5">
+                <div class="col-md-2">
+                    <h6 class="text-uppercase font-weight-bold">
+                        <a href="#!" class="text-white">Sobre</a>
+                    </h6>
+                </div>
+                <div class="col-md-2">
+                    <h6 class="text-uppercase font-weight-bold">
+                        <a href="#!" class="text-white">Produtos</a>
+                    </h6>
+                </div>
+                <div class="col-md-2">
+                    <h6 class="text-uppercase font-weight-bold">
+                        <a href="https://chat.whatsapp.com/D14B1jhvnCHDtzaBEh9BBc" class="text-white"
+                            target="_blank">Contato</a>
+                    </h6>
+                </div>
+            </div>
+        </section>
+        <hr class="my-5" />
+        <section class="text-center mb-5">
+            <section class="text-center mb-5">
+                <a href="https://www.facebook.com/?locale=pt_BR" target="_blank"> 
+                <i class="fa-brands fa-facebook" style="color: #fdfcfc;"></i>
+                </a>
+                <a href="https://accounts.google.com/servicelogin?hl=pt-br" target="_blank">
+                <i class="fa-regular fa-envelope" style="color: #f6f9fd;"></i>
+                </a>
+                <a href="https://www.instagram.com/accounts/login/" target="_blank">
+                    <i class="fab fa-instagram" style="color: #fdfcfc;"></i>
+                </a>
+            </section>
+    </div>
+    <div class="text-center p-3">
+        <p>&copy; 2023 Ecotech. Todos os direitos reservados.</p>
+    </div>
+</footer>
+</body>
+</html>
