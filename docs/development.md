@@ -32,8 +32,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 |RF-003| Listagem de Produtos| ALTA| xxxxxx
 |RF-004| Adicionar detalhes do produto|	ALTA | xxxxxxx |
 |RF-005| Upload de fotos dos produtos| ALTA |  página_doador.html |
-|RF-006| Pesquisa de produtos por categoria| ALTA|  Natã De Araújo Ladeia |
-|RF-007| Emitir um relatório de tarefas no mês   | MÉDIA | Victor Luiz Ribeiro de Oliveira |
+|RF-006| Pesquisa de produtos por categoria| ALTA| xxxxx|
+|RF-007| Emitir um relatório de tarefas no mês   | MÉDIA | xxxxx |
 
 ## Descrição das estruturas:
 
