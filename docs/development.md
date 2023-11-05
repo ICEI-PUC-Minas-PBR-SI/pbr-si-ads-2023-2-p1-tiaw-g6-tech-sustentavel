@@ -41,7 +41,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 |  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
 |:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
 | Nome      | texto    | Nome Completo de quem precisa de doação         | Marcos Vicinius Maciel                                              |
-| Email       | Texto             | E-mail para contato com a pessoa que precisa de doação            | mvm .macros@gmail.com                         |
+| Email       | Texto             | E-mail para contato com a pessoa que precisa de doação            | marcos@gmail.com                         |
 | Conteúdo       | Texto             | Conteúdo da notícia                       | Sistemas de Informação da PUC Minas é eleito o melhor curso do Brasil                            |
 | Id do usuário  | Numero (Inteiro)  | Identificador do usuário autor da notícia | 1                                              |
 
