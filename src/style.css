@@ -51,6 +51,8 @@ p {
 
   .nav-link {
     color: white !important; 
+    text-decoration: none;
+
   }
 
   .nav-link:hover {
@@ -77,22 +79,24 @@ p {
     border: 3px solid #74d612;
 }
 
-.card img {
-    width: 100%; 
-    height: auto; 
+.card {
+  max-width: 80%;
+  margin: 0 auto; 
+  border: 2px solid #69e048;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  padding: 20px;
 }
 
+.card img {
+  width: 100%;
+  height: auto;
+}
 
 .card-body {
-    text-align: center;
+  text-align: center;
 }
-  
-.card {
-            width: 15rem;
-            display: inline-block;
-            margin-right: 40px;
-            margin-right: 5.5px;
-        }
+
 article{
     font-family:  lora;
 }
@@ -105,8 +109,24 @@ article{
             text-align: center ;
 
         }
-footer{
-    background-color: var(--cor1);
+
+
+
+        footer{
+          background-color: var(--cor1);
+      }
+
+header {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+body {
+  background-image: url('Img/Plano\ de\ fundo.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-family: 'Open Sans', sans-serif;
 }
 
 p{
@@ -116,6 +136,14 @@ p{
 
 section {
   padding: 40px;
+}
+
+.title {
+  text-align: center;
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  margin-top: -90px;
 }
 
 h1 {
@@ -129,13 +157,25 @@ h3 {
   font-size: 24px;
 }
 
+.text-box {
+  color:#fff;
+  background-color: #69e048; 
+  padding: 20px; 
+  border: 1px solid #000;
+  border-radius: 5px; 
+  margin: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  margin-bottom: 70px;
+}
+
 p {
   font-size: 18px;
   margin-bottom: 15px;
 }
 
-form {
-  margin-top: 20px;
+footer {
+  padding: 20px 0;
+  background-color: var(--cor1);
 }
 
 .btn-success {
