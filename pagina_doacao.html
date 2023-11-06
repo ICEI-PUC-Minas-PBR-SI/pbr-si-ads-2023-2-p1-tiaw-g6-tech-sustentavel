@@ -39,7 +39,7 @@
                             <a class="nav-link" href="http://127.0.0.1:5500/produtos.html">Produtos</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="./meusanuncios.html">Meus anúncios</a>
+                            <a class="nav-link" href="http://127.0.0.1:5500/meusanuncios.index.html">Meus anúncios</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="./tela-login.html">Login</a>
@@ -57,12 +57,9 @@
     </header>
     <body>
         <div class="container mt-5">
-            <h2>Importância da Doação</h2>
+            <h2>Precisa de Doação  ?  Preencha a abaixo o formulário </h2>
             <p>
-                A doação de produtos eletrônicos desempenha um papel crucial na promoção da sustentabilidade e no
-                acesso à tecnologia para pessoas que de outra forma não teriam essa oportunidade. Ao doar seus produtos
-                eletrônicos sem uso, você está contribuindo para a redução do desperdício eletrônico e permitindo que
-                outros tenham acesso a dispositivos essenciais. Sua doação faz a diferença na vida de muitas pessoas.
+                Em Breve entraremos em contato com você ! 
             </p>
             
       
@@ -76,22 +73,31 @@
         <div class="modal-dialog">
             <div class="modal-content">
                 <div class="modal-header">
-                    <h1 class="modal-title fs-5" id="exampleModalLabel">Insira uma breve descrição do produto a ser doado</h1>
+                    <h1 class="modal-title fs-5" id="exampleModalLabel">Formulário de Doação</h1>
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body">
-                    
-                    <h1>Descrição:</h1>
-                    <textarea class="form-control" rows="4" placeholder="Insira a descrição do produto aqui"></textarea>
-                   
-                    <h1>Envie uma foto do produto:</h1>
-                    <input type="file" class="form-control-file">
+                    <form>
+                        <div class="mb-3">
+                            <label for="nomeCompleto" class="form-label">Nome Completo:</label>
+                            <input type="text" class="form-control" id="nomeCompleto" placeholder="Nome Completo">
+                        </div>
+                        <div class="mb-3">
+                            <label for="email" class="form-label">E-mail:</label>
+                            <input type="email" class="form-control" id="email" placeholder="E-mail">
+                        </div>
+                        <div class="mb-3">
+                            <label for="telefone" class="form-label">Telefone de Contato:</label>
+                            <input type="tel" class="form-control" id="telefone" placeholder="Telefone de Contato">
+                        </div>
+                    </form>
                 </div>
                 <div class="modal-footer">
                     <button type="button" class="btn btn-success" data-bs-dismiss="modal">Fechar</button>
-                    <button type="button" class="btn btn-success">Salvar Solicitação</button>
+                    <button type="button" class="btn btn-success">Enviar Solicitação</button>
                 </div>
             </div>
+            
         </div>
     </div>
     
@@ -169,7 +175,6 @@
             <p>&copy; 2023 Ecotech. Todos os direitos reservados.</p>
         </div>
     </footer>
-
 
 </body>
 
