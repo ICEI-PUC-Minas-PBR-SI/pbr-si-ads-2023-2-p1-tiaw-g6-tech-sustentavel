@@ -27,11 +27,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 
 |ID    | Descrição do Requisito | Prioridade | Artefato Criado |
 |------|------------------------|------------|-----------------|
-|RF-001| Login com redes sociais| MEDIA| login.html |
-|RF-002| Listagem de Produtos| ALTA| produtos.html
-|RF-003| Adicionar detalhes do produto|	ALTA | produtos.html |
+|RF-001| Login com redes sociais| MEDIA| xxxxx |
+|RF-002| Listagem de Produtos| ALTA| xxxxxx
+|RF-003| Adicionar detalhes do produto|	ALTA | xxxxxxx |
 |RF-004| Upload de fotos dos produtos| ALTA |  página_doador.html |
-|RF-005| Pesquisa de produtos por categoria| ALTA| produtos.html |
+|RF-005| Pesquisa de produtos por categoria| ALTA| xxxxx|
 |RF-006| Página com informações para contato   | MÉDIA | contato.html |
 |RF-007| Página com explicações sobre o projeto | MÉDIA | sobre.html |
 
@@ -42,6 +42,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 |:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
 | Nome      | texto    | Nome Completo de quem precisa de doação         | Marcos Vicinius Maciel                                              |
 | Email       | Texto             | E-mail para contato com a pessoa que precisa de doação            | marcos@gmail.com                         |
-| Conteúdo       | Texto             | Conteúdo da notícia                       | Sistemas de Informação da PUC Minas é eleito o melhor curso do Brasil                            |
+| Produto       | Texto             | Descriçao do produto anunciado no site | Notebook,Telefones Celulares   |
 | Id do usuário  | Numero (Inteiro)  | Identificador do usuário autor da notícia | 1                                              |
+| Carrosel |    Imagens |            | Identifica os links das imagens utilizadas nos destaques | ![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-g6-tech-sustentavel/assets/142277683/bf006865-603c-4c4e-a44a-ee6f61b4dddd)
+                                       |
 
