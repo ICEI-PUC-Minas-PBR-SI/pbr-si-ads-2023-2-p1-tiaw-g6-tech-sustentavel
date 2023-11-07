@@ -27,13 +27,13 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 
 |ID    | Descrição do Requisito | Prioridade | Artefato Criado |
 |------|------------------------|------------|-----------------|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | xxxxx |
-|RF-002| Login com redes sociais| MEDIA| xxxxx |
-|RF-003| Listagem de Produtos| ALTA| xxxxxx
-|RF-004| Adicionar detalhes do produto|	ALTA | xxxxxxx |
-|RF-005| Upload de fotos dos produtos| ALTA |  página_doador.html |
-|RF-006| Pesquisa de produtos por categoria| ALTA| xxxxx|
-|RF-007| Emitir um relatório de tarefas no mês   | MÉDIA | xxxxx |
+|RF-001| Login com redes sociais| MEDIA| xxxxx |
+|RF-002| Listagem de Produtos| ALTA| xxxxxx
+|RF-003| Adicionar detalhes do produto|	ALTA | xxxxxxx |
+|RF-004| Upload de fotos dos produtos| ALTA |  página_doador.html |
+|RF-005| Pesquisa de produtos por categoria| ALTA| xxxxx|
+|RF-006| Página com informações para contato   | MÉDIA | contato.html |
+|RF-007| Página com explicações sobre o projeto | MÉDIA | sobre.html |
 
 ## Descrição das estruturas:
 
