@@ -7,7 +7,7 @@ Geanderson Gabriel Pereira Lima:
 Victor Luiz Ribeiro de Oliveira:
 -Auxilio na criação e uso das branches no git
 -Participação nas reuniões e ajudando na definição de atividades do que fazer e ideias do grupo
--Alterações na página do contato 
+-Alterações na página do contato (os commits tinham sido na branch, por isso não aparece nas ações da main, conforme fomos instruídos na próxima etapa todos farão os commits na main para aparecer nas estátisticas
 Josiane Teixeira de Vasconcelos
 -Participação nas reuniões e ajudando na definição de atividades do que fazer e ideias do grupo
 -Fez a página de login inteira, auxilio na página produtos.html
@@ -16,4 +16,6 @@ Jhonathan Agni
 - Auxiliei na organização do etapa 03 junto com meus colegas, criei a página do doador e pagina para quem precisa de doação, auxiliei nas tentativas de mexer no github
 Henrique Taite:
 -Criação de imagem para topo da página "Meus anúncios", criação da página "Meus anúncios", auxílio a alguns colegas na edição de seus 
-respectivos códigos, partipação nas reuniões e trabalho direto na postagem e conferência na entrega da etapa 3.
+respectivos códigos, partipação nas reuniões e trabalho direto na postagem e conferência na entrega da etapa 3. Dei preferência por fazer os
+commits e alterações direto no site do Github, usando o VS Code somente para testar os códigos. Em consequência disso, todos meus commits foram 
+feitos na minha branch "fx_anuncio", sem que aparecessem na "main", indicando que fiz algo. 
