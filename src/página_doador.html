@@ -14,17 +14,18 @@
     <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
     <script src="https://kit.fontawesome.com/322047f7f4.js" crossorigin="anonymous">
     </script>
-    <link rel="stylesheet" href="css/doacao.css">
+    <link rel="stylesheet" href="css/style.css">
     <title>Ecotech - Página do Doador</title>
 </head>
 &nbsp;
 &nbsp;
 &nbsp;
+
 <body>
     <header>
         <nav class="navbar navbar-expand-lg  ">
             <div class="container-fluid">
-                <a href="index.html><img src="img/logo-ecotech.png" alt="" width="60" height="60"></a>
+                <a href="index.html><img src=" img/logo-ecotech.png" alt="" width="60" height="60"></a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll"
                     aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -55,6 +56,7 @@
         </nav>
         </nav>
     </header>
+
     <body>
         <div class="container mt-5">
             <h2>Importância da Doação</h2>
@@ -64,37 +66,43 @@
                 eletrônicos sem uso, você está contribuindo para a redução do desperdício eletrônico e permitindo que
                 outros tenham acesso a dispositivos essenciais. Sua doação faz a diferença na vida de muitas pessoas.
             </p>
-            
-      
-            <button type="button" class="btn btn-success" data-bs-toggle="modal"
-            data-bs-target="#exampleModal">
-            Clique aqui para iniciar a doação
-        </button>
 
 
-    <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h1 class="modal-title fs-5" id="exampleModalLabel">Insira uma breve descrição do produto a ser doado</h1>
-                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                </div>
-                <div class="modal-body">
-                    
-                    <h1>Descrição:</h1>
-                    <textarea class="form-control" rows="4" placeholder="Insira a descrição do produto aqui"></textarea>
-                   
-                    <h1>Envie uma foto do produto:</h1>
-                    <input type="file" class="form-control-file">
-                </div>
-                <div class="modal-footer">
-                    <button type="button" class="btn btn-success" data-bs-dismiss="modal">Fechar</button>
-                    <button type="button" class="btn btn-success">Salvar Solicitação</button>
+            <button type="button" class="btn btn-success" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                Clique aqui para iniciar a doação
+            </button>
+
+
+            <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel"
+                aria-hidden="true">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h1 class="modal-title fs-5" id="exampleModalLabel">Insira uma breve descrição do produto a
+                                ser doado</h1>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <form id="formDoador">
+                            <div class="modal-body">
+                                <div class="mb-3">
+                                    <label>Descrição:</label>
+                                    <textarea class="form-control" id="descricao" rows="4"
+                                        placeholder="Insira a descrição do produto aqui"></textarea>
+                                </div>
+                                <div class="mb-3">
+                                    <label>Envie uma foto do produto (Link):</label>
+                                    <input class="form-control" type="text" id="link_foto" class="form-control-file">
+                                </div>
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-success" data-bs-dismiss="modal">Fechar</button>
+                                <button type="submit" class="btn btn-success">Salvar Solicitação</button>
+                            </div>
+                        </form>
+                    </div>
                 </div>
             </div>
-        </div>
-    </div>
-    
+
 
         </div>
 
@@ -105,10 +113,10 @@
 
 
 
-            &nbsp;
-            &nbsp;
-            &nbsp;
-            &nbsp;
+        &nbsp;
+        &nbsp;
+        &nbsp;
+        &nbsp;
 
 
 
@@ -118,7 +126,8 @@
 
 
 
-        <img src="https://th.bing.com/th/id/R.729eadf888fd3c2265c7f8c9acb34542?rik=9n87CjTScNCw7Q&riu=http%3a%2f%2ffoodbizbrasil.com%2fwp-content%2fuploads%2f2020%2f06%2fshutterstock_645682759.jpg&ehk=8CRY09jWZ2U%2bgiP8RbQkiVWE76pOe7WAbLz6%2bzqw418%3d&risl=&pid=ImgRaw&r=0" alt="Imagem" class="img-fluid">
+        <img src="https://th.bing.com/th/id/R.729eadf888fd3c2265c7f8c9acb34542?rik=9n87CjTScNCw7Q&riu=http%3a%2f%2ffoodbizbrasil.com%2fwp-content%2fuploads%2f2020%2f06%2fshutterstock_645682759.jpg&ehk=8CRY09jWZ2U%2bgiP8RbQkiVWE76pOe7WAbLz6%2bzqw418%3d&risl=&pid=ImgRaw&r=0"
+            alt="Imagem" class="img-fluid">
 
 
 
@@ -171,6 +180,7 @@
     </footer>
 
 
+    <script src="js/doador.js"></script>
 </body>
 
 </html>
