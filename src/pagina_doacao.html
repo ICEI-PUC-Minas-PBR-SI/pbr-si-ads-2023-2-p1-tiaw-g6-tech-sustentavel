@@ -14,6 +14,9 @@
     <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
     <script src="https://kit.fontawesome.com/322047f7f4.js" crossorigin="anonymous">
     </script>
+      <script src="script_doacao.js"></script>
+
+
     <link rel="stylesheet" href="css/doacao.css">
     <title>Ecotech - Página do Doador</title>
 </head>
@@ -90,12 +93,20 @@
                             <label for="telefone" class="form-label">Telefone de Contato:</label>
                             <input type="tel" class="form-control" id="telefone" placeholder="Telefone de Contato">
                         </div>
-                    </form>
+
+                        <div class="mb-3">
+                            <label for="telefone" class="form-label">Descrição do Produto que precisa:</label>
+                            <input type="text" class="form-control" id="dsc_produto_doacao" placeholder="Descrição">
+                        </div>
+                   
+
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-success" data-bs-dismiss="modal">Fechar</button>
+                        <button type="submit" class="btn btn-success">Enviar Solicitação</button>
+                    </div>
+                </form>
                 </div>
-                <div class="modal-footer">
-                    <button type="button" class="btn btn-success" data-bs-dismiss="modal">Fechar</button>
-                    <button type="button" class="btn btn-success">Enviar Solicitação</button>
-                </div>
+        
             </div>
             
         </div>
