@@ -25,21 +25,64 @@ Nesta seção o grupo deverá documentar os testes de software que verificam a c
 Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe qual o Requisito  Funcional ou não funcional que ele está verificando. Associe também a página (ou artefato) onde o teste será realizado e descreva o cenário do teste. Veja a tabela de exemplo.
 
 
-**Caso de Teste** | **CT01 - Criar conta parte 1**
+**Caso de Teste** | **CT01 - Listagem de Produtos**
  :--------------: | ------------
-**Procedimento**  | 1) Usuário informa nome, sobrenome, email, senha, Estado e Cidade e clica no botão "Continuar".<br>2) A aplicação verifica se os dados são válidos e informa ao usuário caso não sejam.
-**Requisitos associados** | RF-001
-**Resultado esperado** | Prosseguir para a parte 2 do cadastro.
-**Dados de entrada** | Inserção de dados válidos no formulário de cadastro.
+**Procedimento**  | 1) Usuário acessa a botão "Produtos" disponível em qualquer uma das abas do site, aonde terá acesso a todos produtos cadastrados, além de ter a opção de cadastar produtos. 
+**Requisitos associados** | RF-002 (Listagem de Produtos) e  RF-003 (Adicionar detalhes do produto)
+**Resultado esperado** | exibição dos produtos já cadastrados ou cadastro de novos produtos/atibutos do produto. 
+**Dados de entrada** | Inserção de dados válidos no formulário de cadastro ou ao clicar em produtos visualização dos produtos já cadastrados no sistema
 **Resultado obtido** | Sucesso.
 
-**Caso de Teste** | **CT02 - Criar conta parte 2**
+**Caso de Teste** | **CT02 - Upload de fotos de produtos**
  :--------------: | ------------
-**Procedimento**  | 1) Usuário informa gênero, seu tipo de usuário (cuidador ou comum), data de nascimento e clica em criar.<br>2) A aplicação verifica se os dados são válidos e informa ao usuário caso não sejam.<br> 3) A aplicação armazena os dados e direciona o usuário para a tela de login.
-**Requisitos associados** | RF-001
-**Resultado esperado** | Criação de cadastro
-**Dados de entrada** | Inserção de dados válidos no formulário de cadastro.
+**Procedimento**  | 1) O usuário acessa o caminho do site: "Sobre Nós", acessa a página do doador aonde deverá acessar o botão "Clique aqui para Iniciar a doação" existe um opção para adicionar a descrição ao produto a ser doado, além disso existe uma opção que foi adaptada por possuir menor complexidade que é já inserir a URL da foto do produto que já foi carregada em um servidor de imagens. 
+**Requisitos associados** | RF-004
+**Resultado esperado** | Criação de cadastro do produto a ser doado inclusive permitir o envio da imagem. 
+**Dados de entrada** | Inserção de dados válidos no formulário de cadastro/ URL da foto
 **Resultado obtido** | Sucesso.
+
+
+
+
+
+**Caso de Teste** | **CT03 - Login/login com redes sociais**
+ :--------------: | ------------
+**Procedimento**  | 1) o usuário acessa o botão de login em qualquer uma das páginas do site e faz a inserção dos seguintes dados: 
+Nome completo, E-mail, Senha para criação da conta e posteriormente realiza o login com os dados cadastrados. 
+
+**Requisitos associados** | RF-001
+**Resultado esperado** | Criação de cadastro do perfil do usuário e realização de login com os dados inseridos.
+**Dados de entrada** | Inserção de dados válidos no formulário de cadastro
+**Resultado obtido** | Sucesso.
+
+**Caso de Teste** | **CT04 - pesquisa de Produtos por categoria **
+ :--------------: | ------------
+**Procedimento**  | 1) O Usuário acessa barra de pesquisa e faz a inserção de dados que serão pesquisados no site 
+
+**Requisitos associados** | RF-005
+**Resultado esperado** | Retorno de resultados em tela ou sugestões de pesquisa
+**Dados de entrada** | Inserção de dados válido na pesquisa.
+**Resultado obtido** | Sucesso.
+
+**Caso de Teste** | **CT05 - Página com explicações sobre o projeto**
+ :--------------: | ------------
+**Procedimento**  | 1) O Usuário acessa a cominho "sobre" que está disponível em qualquer uma das páginas e acessa as informações sobre o projeto que estão sendo exibidas em tela. 
+
+**Requisitos associados** | RF-007
+**Resultado esperado** | Retorno de resultados em tela.
+**Dados de entrada** | Acessar o caminho correto da página "sobre"
+**Resultado obtido** | Sucesso.
+
+**Caso de Teste** | **CT06 - Páginacom informações para contato**
+ :--------------: | ------------
+**Procedimento**  | 1) O Usuário acessa a cominho "Contatos" que está disponível em qualquer uma das páginas e acessa as informações sobre o projeto que estão sendo exibidas em tela. 
+
+**Requisitos associados** | RF-006
+**Resultado esperado** | Retorno de resultados em tela.
+**Dados de entrada** | Acessar o caminho correto da página "sobre"
+**Resultado obtido** | Sucesso.
+
+
 
 ## Registro dos Testes de Software
 
