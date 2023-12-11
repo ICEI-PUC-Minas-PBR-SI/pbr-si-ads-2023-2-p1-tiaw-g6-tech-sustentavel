@@ -98,39 +98,39 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 |*Caso de Teste*                                 |*TC-01 - Listagem de Produtos*                                         |
 |---|---|
 |Requisito Associado | RF-002 - Listagem de Produtos|
-|Link do vídeo do teste realizado: | https://1drv.ms/u/s!AhD2JqpOUvJChapRtRSQ9vPzbNLwGA?e=mxZs6t| 
+|Link do vídeo do teste realizado: | https://photos.google.com/share/AF1QipM-r_KY2d9XGwG8lqIVZvQLa50A74IrqlDqR2x8-p6MlJ5q1HKSddf4xwHjAAkqVw/photo/AF1QipNS7BiFdG2FnuiQdrbDJhQgudxSSqVMQhWpwXkd?key=OXVVNTd2NVpiYjdtamJnLW9qcGV2RHd3SkpDb1lR| 
 
 |*Caso de Teste*                                 |*TC-02 - Upload de fotos de produtos**                                         |
 |---|---|
 |Requisito Associado | RF-004 - 	Upload de fotos dos produtos.|
-|Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
+|Link do vídeo do teste realizado: | https://photos.google.com/share/AF1QipM-r_KY2d9XGwG8lqIVZvQLa50A74IrqlDqR2x8-p6MlJ5q1HKSddf4xwHjAAkqVw/photo/AF1QipNS7BiFdG2FnuiQdrbDJhQgudxSSqVMQhWpwXkd?key=OXVVNTd2NVpiYjdtamJnLW9qcGV2RHd3SkpDb1lR | 
 
 
 |*Caso de Teste*                                 |*TC-03 - Login*                                         |
 |---|---|
 |Requisito Associado | RF-001 - Login com redes sociais.|
-|Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
+|Link do vídeo do teste realizado: | https://photos.app.goo.gl/WjDbo7WousjFqMWp8 | 
 
 
 |*Caso de Teste*                                 |*TC-04 - Pesquisa de Produtos*                                         |
 |---|---|
 |Requisito Associado | RF-005 - Pesquisa de produtos|
-|Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
+|Link do vídeo do teste realizado: | https://photos.google.com/share/AF1QipN0K_vrU6dZVSnw7du60xQBsfDaIlFu2KY77Juoto6EDQx44zs7NUQARBdKsbnlQg/photo/AF1QipN3Li_UiJ0VhSwNOUGxag1TISmZ9KYiMwRv9_jS?key=cVZtalRqMVpXd0p3X0w5eHpNY2MwTVU2S0VEV1dB | 
 
 |*Caso de Teste*                                 |*TC-05 - Página com explicações sobre o projeto*                                         |
 |---|---|
 |Requisito Associado | RF-007  - Página com explicações sobre o projeto. |
-|Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
+|Link do vídeo do teste realizado: | https://photos.google.com/share/AF1QipMs3BOWV7Gq3dniKO1-mMyjIBVP3HrfVCWgk_byXIjdtPGYO4_Wp5tb6BboJGFjSQ/photo/AF1QipNcauaDCstQYuC5DxxmuZxR5DAgR64_W9cIMBqw?key=a2NScUFIWUZaS1NQcGx2UVp2cGVGckt0eWRGSjln | 
 
 |*Caso de Teste*                                 |*TC-06 - Página com informações para contato*                                         |
 |---|---|
 |Requisito Associado | RF-006 - Página com informações para contato|
-|Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
+|Link do vídeo do teste realizado: | https://photos.google.com/share/AF1QipMs3BOWV7Gq3dniKO1-mMyjIBVP3HrfVCWgk_byXIjdtPGYO4_Wp5tb6BboJGFjSQ/photo/AF1QipNcauaDCstQYuC5DxxmuZxR5DAgR64_W9cIMBqw?key=a2NScUFIWUZaS1NQcGx2UVp2cGVGckt0eWRGSjln | 
 
 |*Caso de Teste*                                 |*TC-07 - Adicionar os detalhes aos produtos*                                         |
 |---|---|
 |Requisito Associado | RF-003 - Adicionar detalhes do produto |
-|Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
+|Link do vídeo do teste realizado: | https://photos.google.com/share/AF1QipM-r_KY2d9XGwG8lqIVZvQLa50A74IrqlDqR2x8-p6MlJ5q1HKSddf4xwHjAAkqVw/photo/AF1QipNS7BiFdG2FnuiQdrbDJhQgudxSSqVMQhWpwXkd?key=OXVVNTd2NVpiYjdtamJnLW9qcGV2RHd3SkpDb1lR | 
 
 
 
