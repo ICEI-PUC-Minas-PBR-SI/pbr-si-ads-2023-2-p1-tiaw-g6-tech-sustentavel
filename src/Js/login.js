@@ -38,7 +38,7 @@ document.getElementById("formCriarConta").addEventListener("submit", function (e
     }
 
     // Cadastra usuário no banco
-    fetch('http://localhost:5000/register', {
+    fetch('https://eco-tech.vercel.app/register', {
         method: 'POST',
         body: JSON.stringify({
             email: emailUsuario,
@@ -97,7 +97,7 @@ document.getElementById("formFazerLogin").addEventListener("submit", function (e
     }
 
     // Autentica usuário no banco
-    fetch('http://localhost:5000/login', {
+    fetch('https://eco-tech.vercel.app/login', {
         method: 'POST',
         body: JSON.stringify({
             email: emailUsuario,

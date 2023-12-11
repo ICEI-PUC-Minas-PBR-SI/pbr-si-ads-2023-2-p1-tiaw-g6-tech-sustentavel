@@ -2,7 +2,7 @@ function carregarProdutos() {
     const urlParams = new URLSearchParams(window.location.search)
     const pesquisa = urlParams.get("s")
     const urlServico = pesquisa ? `&q=${pesquisa}` : "";
-    fetch(`http://localhost:5000/produtos?finalizado=false${urlServico}`)
+    fetch(`https://eco-tech.vercel.app/produtos?finalizado=false${urlServico}`)
         .then(response => response.json())
         .then(produtos => {
             if (produtos.length == 0) {

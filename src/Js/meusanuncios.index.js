@@ -8,7 +8,7 @@ function carregaAnuncios(){
     document.getElementById('produtosFinalizadosContainer').innerHTML = ''
     document.getElementById('produtosPublicosContainer').innerHTML = ''
     // Carrega anuncios do usuario
-    fetch(`http://localhost:5000/produtos?userId=${userId}`)
+    fetch(`https://eco-tech.vercel.app/produtos?userId=${userId}`)
         .then(response => response.json())
         .then(produtos => {
             // Processa cada produto e adiciona ao HTML da páginas
@@ -48,7 +48,7 @@ function carregaAnuncios(){
 window.onload = carregaAnuncios;
 
 function finalizarProduto (idProduto) {
-    fetch(`http://localhost:5000/produtos/${idProduto}`, {
+    fetch(`https://eco-tech.vercel.app/produtos/${idProduto}`, {
         method: 'PATCH',
         body: JSON.stringify({
             finalizado: true
@@ -81,7 +81,7 @@ document.addEventListener("DOMContentLoaded", function () {
         if (nomeProdutoModal && descricaoProdutoModal && precoProdutoModal && imagemProdutoModal) {
             // Cadastrar produto na api
             const hoje = new Date()
-            fetch('http://localhost:5000/produtos', {
+            fetch('https://eco-tech.vercel.app/produtos', {
                 method: 'POST',
                 body: JSON.stringify({
                     nome_produto: nomeProdutoModal,

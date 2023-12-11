@@ -10,7 +10,7 @@ formDoacao.addEventListener("submit", function (event) {
     if (nome.value == "" || email.value == "" || telefone.value == "") {
         alert("Preencha os campos!")
     } else {
-        fetch("http://localhost:5000/doacao", {
+        fetch("https://eco-tech.vercel.app/doacao", {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
