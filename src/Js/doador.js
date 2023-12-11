@@ -8,7 +8,7 @@ formDoador.addEventListener("submit", function (event) {
     let descricao = document.getElementById("descricao");
     let link_foto = document.getElementById("link_foto");
 
-    fetch("https://eco-tech.vercel.app/doador", {
+    fetch("http://localhost:5000/doador", {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
