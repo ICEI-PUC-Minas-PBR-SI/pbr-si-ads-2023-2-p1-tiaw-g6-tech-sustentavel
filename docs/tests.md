@@ -109,7 +109,7 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 |*Caso de Teste*                                 |*TC-03 - Login*                                         |
 |---|---|
 |Requisito Associado | RF-001 - Login com redes sociais.|
-|Link do vídeo do teste realizado: | https://photos.app.goo.gl/WjDbo7WousjFqMWp8 | 
+|Link do vídeo do teste realizado: | https://photos.google.com/share/AF1QipOTxhwTPkxDJOZQg0KQUWqMRUk0U9w2eLrqxGdWe46kf5eQhO6ndvIY1WZn9pHSQQ/photo/AF1QipM8ce7-Y92VASp4IL109nItiqCw6Ch1YuJlDGF2?key=TFpDSkZZQzBMbDFxa2JxVUUxUXRVajlJSTJxTWJR | 
 
 
 |*Caso de Teste*                                 |*TC-04 - Pesquisa de Produtos*                                         |
