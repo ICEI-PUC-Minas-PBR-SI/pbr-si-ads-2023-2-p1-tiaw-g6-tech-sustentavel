@@ -6,10 +6,14 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Login</title>
     <script src="Js/script.js" defer></script>
-    <link rel="stylesheet" href="css/tela-login.css">
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css"
-        integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css'>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+        crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="css/tela-login.css">
 </head>
 <body>
   
@@ -79,8 +83,8 @@
 
         <div class="content second-content">
             <div class="first-column">
-                <h2 class="title title-primary">Olá, Mundo</h2>
-                <p class="description description-primary">Insira seus dados pessoais</p>
+                <h2 class="title title-primary">Ainda não tem conta?</h2>
+                <p class="description description-primary">Insira seus dados pessoais e cadastre-se agora.</p>
                 <button id="signup" class="btn btn-primary">CADASTRE-SE</button>
             </div>
             <div class="second-column">
@@ -105,25 +109,20 @@
                     </ul>
                 </div>
                 <p class="description description-second">ou use sua conta de e-mail:</p>
-                <form class="form">
-                
-                    <label class="label-input" for="">
-                        <i class="far fa-envelope icon-modify"></i>
-                        <input type="email" placeholder="Email" id="emailLogin">
-                    </label>
-                
-                    <label class="label-input" for="">
-                        <i class="fas fa-lock icon-modify"></i>
-                        <input type="password" placeholder="Senha" id="senhaLogin">
-                    </label>
-                
-                    <a class="password" href="#">Esqueceu sua senha?</a>
-                    <!-- Adicione o ID "btnEntrar" ao botão de entrar -->
-                    <button class="btn btn-second" id="btnEntrar">ENTRAR</button>
-                </form>
+                <form id="formFazerLogin">
+                    <div class="mb-3">
+                      <label for="exampleInputEmail1" class="form-label">E-mail</label>
+                      <input type="email" class="form-control" id="emailEntrar">
+                    </div>
+                    <div class="mb-3">
+                      <label for="exampleInputPassword1" class="form-label">Senha</label>
+                      <input type="password" class="form-control" id="senhaEntrar">
+                    </div>
+                    <button type="submit" class="btn btn-primary">Entrar</button>
+                  </form>
             </div>
         </div>
     </div>
-    <script src="Js/script.js"></script>
+    <script src="js/login.js"></script>
 </body>
 </html>

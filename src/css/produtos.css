@@ -20,6 +20,9 @@ header {
 
 }
 
+.nav-link {
+    color: white !important; 
+  }
 
 
 p {
@@ -44,24 +47,32 @@ p {
 
 }
 
+main{
+    text-align: center;
+}
 
 
 
 
 
-         /* Estilização para os cards de produtos */
     .product-card {
-        background-color: #33aa33; /* Verde claro */
-        border: 1px solid #33cc33; /* Verde médio */
-        padding: 10px;
-        margin: 10px;
-        width: 300px;
-        
-        vertical-align: top;
+        color: #fff;
+        background-color: #69e048be;
+        padding: 5%;
+        border-radius: 5px;
+        margin: 20px auto;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+        border: 1px solid #000;
+        margin-top: 100px;
+        text-align: center;
+        font-weight: bold;
+        margin-left: 200px;
+        margin-right: 200px;
     }
 
     .star {
-        color: yellow; /* amarelo */
+        font-size: xx-large;
+        color: yellow;
     }
 article{
     font-family:  lora;

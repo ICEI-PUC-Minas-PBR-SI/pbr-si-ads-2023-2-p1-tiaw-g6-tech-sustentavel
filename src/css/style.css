@@ -23,8 +23,8 @@ header{
 }
 
 .sobre{
-  color:#fff;
-  background-color: #69e048; 
+  color: #fff;
+  background-color: #69e048be;
   padding: 20px; 
   border-radius: 5px; 
   margin: 20px;
@@ -51,7 +51,7 @@ article {
     left: 0;
     right: 0;
     z-index: 2;
-   
+    margin-bottom: 20px;
 }
 
 .carousel-margin {

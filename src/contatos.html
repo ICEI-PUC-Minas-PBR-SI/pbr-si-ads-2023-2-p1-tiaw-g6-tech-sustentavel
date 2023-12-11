@@ -10,40 +10,44 @@
         crossorigin="anonymous"></script>
     <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
     <script src="https://kit.fontawesome.com/322047f7f4.js" crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/contato.css">
     <title>Ecotech</title>
 </head>
 
 <div class="container">
 <body>
-    <header>
-        <nav class="navbar navbar-expand-lg  ">
+    <header class="navbar navbar-expand-lg">
+        <nav class="navbar navbar-expand-lg">
             <div class="container-fluid">
-                <a href="http://127.0.0.1:5500/index.html"><img src="img/logo-ecotech.png" alt="" width="60" height="60"></a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll"
-                    aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
+                <a href="index.html"><img src="img/logo-ecotech.png" alt="" width="60" height="60"></a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false"
+                    aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarScroll">
-                    <ul class="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll" style="--bs-scroll-height: 100px;">
+                    <ul class="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll"
+                        style="--bs-scroll-height: 100px;">
                         <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="sobre.html">Sobre
-                                nós</a>
+                            <a class="nav-link" href="sobre.html">Sobre nós</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="produtos.html">Produtos</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="./meusanuncios.index.html">Meus anúncios</a>
+                            <a class="nav-link" href="meusanuncios.index.html">Meus anúncios</a>
+
                         </li>
-                        <li class="nav-item">
+                        <li class="nav-item" id="menuLogin">
                             <a class="nav-link" href="./tela-login.html">Login</a>
                         </li>
                     </ul>
-                    <form class="d-flex" role="search">
-                        <input class="form-control me-2" type="search" placeholder="Pesquisar" aria-label="Search">
+                    <form action="produtos.html" class="d-flex" role="search">
+                        <input name="s" class="form-control me-2" type="search" placeholder="Pesquisar" aria-label="Search">
                         <button class="btn btn-outline-success" type="submit"><i
                                 class="fa-solid fa-magnifying-glass fa-2xs" style="color: #61bf03;"></i></button>
+                        <a class="nav-link" href="Meu-Perfil.html" id="menuPerfil"><img src="img/Meu-Perfil.png" height="50"
+                                width="50"></a>
                     </form>
                 </div>
             </div>
@@ -56,14 +60,14 @@
         </aside>
 
         <div class="text-box">
-        <section style="color: #30503A;">
+        <section style="color: #fff">
             <h1 class="title">Algumas formas de nos encontrar</h1>
             <div class="container">
                 <div class="row">
                     <div class="col-md-6">
                         <h3 >Informações de Contato</h3>
-                        <p><i class="fas fa-envelope" style="color: #30503A;"></i> Email: SemNome@ecotech.com</p>
-                        <p><i class="fas fa-phone" style="color: #30503A;"></i> Telefone: (XX) XXXX-XXXX</p>
+                        <p><i class="fas fa-envelope" style="color: #fff"></i> Email: SemNome@ecotech.com</p>
+                        <p><i class="fas fa-phone" style="color: #fff"></i> Telefone: (XX) XXXX-XXXX</p>
                     </div>
                     <div class="col-md-6">
                         <h3>Redes Sociais</h3>
@@ -71,20 +75,20 @@
                             <div class="row">
                                 <div class="col-md-4">
                                     <a href="https://github.com/seu-usuario-do-github" target="_blank" class="no-underline">
-                                        <i class="fab fa-github fa-3x" style="color: #30503A;"></i>
-                                        <p style="color: #30503A;">GitHub</p>
+                                        <i class="fab fa-github fa-3x" style="color: #fff;"></i>
+                                        <p style="color: #fff">GitHub</p>
                                     </a>
                                 </div>
                                 <div class="col-md-4">
                                     <a href="https://www.instagram.com/seu-usuario-do-instagram" target="_blank" class="no-underline">
-                                        <i class="fab fa-instagram fa-3x" style="color: #30503A;"></i>
-                                        <p style="color: #30503A;">Instagram</p>
+                                        <i class="fab fa-instagram fa-3x" style="color: #fff"></i>
+                                        <p style="color: #fff">Instagram</p>
                                     </a>
                                 </div>
                                 <div class="col-md-4">
                                     <a href="https://wa.me/5511987654321" target="_blank" class="no-underline">
-                                        <i class="fab fa-whatsapp fa-3x" style="color: #30503A;"></i>
-                                        <p style="color: #30503A;" >WhatsApp</p>
+                                        <i class="fab fa-whatsapp fa-3x" style="color: #fff"></i>
+                                        <p style="color: #fff" >WhatsApp</p>
                                     </a>
                                 </div>
                             </div>
@@ -134,7 +138,8 @@
     <div class="text-center p-3">
         <p>&copy; 2023 Ecotech. Todos os direitos reservados.</p>
     </div>
-</footer>
+    </footer>
+    <script src="./js/header.js"></script>
 
 </body>
 </html>
