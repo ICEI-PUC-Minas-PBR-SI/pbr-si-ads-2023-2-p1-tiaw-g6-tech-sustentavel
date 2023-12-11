@@ -1,8 +1,10 @@
+URL - 'https://pbr-si-ads-2023-2-p1-tiaw-g6-tech-sustentavel-stw1.vercel.app/produtos'
+
 function carregarProdutos() {
     const urlParams = new URLSearchParams(window.location.search)
     const pesquisa = urlParams.get("s")
     const urlServico = pesquisa ? `&q=${pesquisa}` : "";
-    fetch(`http://localhost:5000/produtos?finalizado=false${urlServico}`)
+    fetch(URL)
         .then(response => response.json())
         .then(produtos => {
             if (produtos.length == 0) {
