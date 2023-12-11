@@ -12,7 +12,7 @@ De acordo com Macêdo (2009), os Estados Unidos descartam diversos produtos elet
 
 Esta não é apenas a realidade dos EUA, mas também dem muitos outros países. 
 
-Neste contexto a solução a ser desenvolvida é um site e-commerce  de produtos eletrônicos e de informáica, 
+Neste contexto a solução a ser desenvolvida é um site eccomerce  de produtos eletrônicos e de informáica, 
 mais ligados do hardware que realiza a venda de produtos novos mas que também faz a coleta, manunteção, avaliação de produtos eletrônicos seminovos. 
 
 Que podem ser vendidos por um preço mais em conta e que podem ser reutilizados por outras pessoas que geralmente não possuem condições de pagar por produto novos, pode-se 

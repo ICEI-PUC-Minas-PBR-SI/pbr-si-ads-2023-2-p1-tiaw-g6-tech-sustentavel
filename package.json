@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start-json-server": "json-server-auth --watch db.json --port 5000"
+  },
+  "dependencies": {
+    "json-server": "^0.17.4",
+    "json-server-auth": "^2.1.0"
+  }
+}

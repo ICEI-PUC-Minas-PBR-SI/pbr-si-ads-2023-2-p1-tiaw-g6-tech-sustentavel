@@ -15,34 +15,38 @@
 </head>
 
 <body>
-    <header>
-        <nav class="navbar navbar-expand-lg  ">
+    <header class="navbar navbar-expand-lg">
+        <nav class="navbar navbar-expand-lg">
             <div class="container-fluid">
                 <a href="index.html"><img src="img/logo-ecotech.png" alt="" width="60" height="60"></a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll"
-                    aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false"
+                    aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarScroll">
-                    <ul class="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll" style="--bs-scroll-height: 100px;">
+                    <ul class="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll"
+                        style="--bs-scroll-height: 100px;">
                         <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="sobre.html">Sobre
-                                nós</a>
+                            <a class="nav-link" href="sobre.html">Sobre nós</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="produtos.html">Produtos</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="meusanuncios.index.html">Meus anúncios</a>
+
                         </li>
-                        <li class="nav-item">
+                        <li class="nav-item" id="menuLogin">
                             <a class="nav-link" href="./tela-login.html">Login</a>
                         </li>
                     </ul>
-                    <form class="d-flex" role="search">
-                        <input class="form-control me-2" type="search" placeholder="Pesquisar" aria-label="Search">
+                    <form action="produtos.html" class="d-flex" role="search">
+                        <input name="s" class="form-control me-2" type="search" placeholder="Pesquisar" aria-label="Search">
                         <button class="btn btn-outline-success" type="submit"><i
                                 class="fa-solid fa-magnifying-glass fa-2xs" style="color: #61bf03;"></i></button>
+                        <a class="nav-link" href="Meu-Perfil.html" id="menuPerfil"><img src="img/Meu-Perfil.png" height="50"
+                                width="50"></a>
                     </form>
                 </div>
             </div>
@@ -73,7 +77,7 @@
             </p>
 
             <p>
-                Você tem interesse em ser um doador? <a href="página_doador.html">Clique aqui</a>
+                Você tem interesse em ser um doador? <a href="pagina_doador.html">Clique aqui</a>
             </p>
             <p>
                 Você tem interesse em receber doação? <a href="pagina_doacao.html">Clique aqui</a>
@@ -123,6 +127,7 @@
             <p>&copy; 2023 Ecotech. Todos os direitos reservados.</p>
         </div>
     </footer>
+    <script src="./js/header.js"></script>
 
 </body>
 

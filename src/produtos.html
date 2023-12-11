@@ -18,154 +18,57 @@
 </head>
 
 <body>
-    <header>
-        <nav class="navbar navbar-expand-lg  ">
+    <header class="navbar navbar-expand-lg">
+        <nav class="navbar navbar-expand-lg">
             <div class="container-fluid">
                 <a href="index.html"><img src="img/logo-ecotech.png" alt="" width="60" height="60"></a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll"
-                    aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false"
+                    aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarScroll">
-                    <ul class="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll" style="--bs-scroll-height: 100px;">
+                    <ul class="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll"
+                        style="--bs-scroll-height: 100px;">
                         <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="sobre.html">Sobre nós</a>
+                            <a class="nav-link" href="sobre.html">Sobre nós</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="produtos.html">Produtos</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="meusanuncios.index.html">Meus anúncios</a>
+
                         </li>
-                        <li class="nav-item">
+                        <li class="nav-item" id="menuLogin">
                             <a class="nav-link" href="./tela-login.html">Login</a>
                         </li>
                     </ul>
-                    <form class="d-flex" role="search">
-                        <input class="form-control me-2" type="search" placeholder="Pesquisar" aria-label="Search">
+                    <form action="produtos.html" class="d-flex" role="search">
+                        <input name="s" class="form-control me-2" type="search" placeholder="Pesquisar" aria-label="Search">
                         <button class="btn btn-outline-success" type="submit"><i
                                 class="fa-solid fa-magnifying-glass fa-2xs" style="color: #61bf03;"></i></button>
+                        <a class="nav-link" href="Meu-Perfil.html" id="menuPerfil"><img src="img/Meu-Perfil.png" height="50"
+                                width="50"></a>
                     </form>
                 </div>
             </div>
         </nav>
     </header>
 
-    <link rel="stylesheet" type="text/css" href="produtos.css">
-    <div class="d-flex align-items-center">
-        <select name="categoria" class="me-3">
+
+
+    <main>
+        <!-- <select name="categoria" class="me-3">
             <option value="todas">Todas as Categorias</option>
             <option value="Celulares">Celulares</option>
             <option value="Notebooks">Notebooks</option>
             <option value="Tablets">Tablets</option>
-        </select>
-        <button class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#cadastroProdutoModal">Cadastrar
-            Produtos</button>
-    </div>
+        </select> -->
+        <div id="produtosContainer">
 
-    <div class="product-card">
-        <h2>Produto 2</h2>
-        <p>Descrição do Produto 2</p>
-        <p>Vendedor: Vendedor 2</p>
-        <div>
-            Avaliação:
-            <span class="star">&#9733;</span>
-            <span class="star">&#9733;</span>
-            <span class="star">&#9733;</span>
-            <span class="star">&#9733;</span>
-            <span class="star">&#9733;</span>
         </div>
-    </div>
-
-    <div class="product-card">
-        <h2>Produto 3</h2>
-        <p>Descrição do Produto 3</p>
-        <p>Vendedor: Vendedor 3</p>
-        <div>
-            Avaliação:
-            <span class="star" onclick="rateProduct(1)">&#9733;</span>
-            <span class="star" onclick="rateProduct(1)">&#9733;</span>
-            <span class="star" onclick="rateProduct(1)">&#9733;</span>
-            <span class="star" onclick="rateProduct(1)">&#9733;</span>
-            <span class="star" onclick="rateProduct(1)">&#9733;</span>
-        </div>
-    </div>
-
-    <!-- Modal de Cadastro de Produto -->
-    <div class="modal fade" id="cadastroProdutoModal" tabindex="-1" aria-labelledby="exampleModalLabel"
-        aria-hidden="true">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h5 class="modal-title" id="exampleModalLabel">Cadastrar Novo Produto</h5>
-                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                </div>
-                <div class="modal-body">
-                    <!-- Formulário de Cadastro de Produto -->
-                    <form id="formCadastroProdutoModal">
-                        <label for="nomeProdutoModal">Nome do Produto:</label>
-                        <input type="text" id="nomeProdutoModal" name="nomeProdutoModal" required>
-
-                        <label for="descricaoProdutoModal">Descrição do Produto:</label>
-                        <textarea id="descricaoProdutoModal" name="descricaoProdutoModal" required></textarea>
-
-                        <label for="precoProdutoModal">Preço do Produto:</label>
-                        <input type="number" id="precoProdutoModal" name="precoProdutoModal" required>
-
-                        <button type="submit" class="btn btn-primary">Cadastrar Produto</button>
-                    </form>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <script>
-        document.addEventListener("DOMContentLoaded", function () {
-            // Evento de envio do formulário no modal
-            document.getElementById("formCadastroProdutoModal").addEventListener("submit", function (event) {
-                // Impedir o comportamento padrão do formulário
-                event.preventDefault();
-
-                // Obter os valores dos campos do formulário no modal
-                var nomeProdutoModal = document.getElementById("nomeProdutoModal").value;
-                var descricaoProdutoModal = document.getElementById("descricaoProdutoModal").value;
-                var precoProdutoModal = document.getElementById("precoProdutoModal").value;
-
-                // Validar se os campos estão preenchidos
-                if (nomeProdutoModal && descricaoProdutoModal && precoProdutoModal) {
-                    // Aqui você pode adicionar a lógica para enviar os dados para o backend
-                    // e realizar a operação de criação (CREATE) no banco de dados.
-
-                    // Exemplo simples para exibir os dados no console (remova isso quando conectar ao backend)
-                    console.log("Nome do Produto:", nomeProdutoModal);
-                    console.log("Descrição do Produto:", descricaoProdutoModal);
-                    console.log("Preço do Produto:", precoProdutoModal);
-
-                    // Limpar os campos do formulário no modal após o cadastro
-                    document.getElementById("formCadastroProdutoModal").reset();
-
-                    // Fechar o modal após o cadastro
-                    var cadastroProdutoModal = new bootstrap.Modal(document.getElementById("cadastroProdutoModal"));
-                    cadastroProdutoModal.hide();
-                } else {
-                    alert("Por favor, preencha todos os campos.");
-                }
-            });
-        });
-
-        function rateProduct(rating) {
-            var stars = document.querySelectorAll(".star")
-
-            for (var i = 0; i < stars.length; i++) {
-                if (i < rating) {
-                    stars[i].style.color = "gold";
-                } else {
-                    stars[i].style.color = "gray";
-                }
-            }
-        }
-    </script>
-
+    </main>
     <footer class="text-center text-white">
         <div class="container">
             <section class="mt-5">
@@ -204,7 +107,8 @@
             <p>&copy; 2023 Ecotech. Todos os direitos reservados.</p>
         </div>
     </footer>
+    <script src="js/produtos.js"></script>
+    <script src="./js/header.js"></script>
 </body>
 
 </html>
-

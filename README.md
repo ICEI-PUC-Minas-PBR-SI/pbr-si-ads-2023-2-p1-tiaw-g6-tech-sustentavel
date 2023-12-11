@@ -8,21 +8,7 @@
 
 `SEMESTRE: 2º`
 
-A economia mundial globalizada, o uso da web traz consigo maior velocidade e volatilidade das transações de mercado. Se antes grande parte das empresas já trabalhavam com e-commerce, no contexto atual fica claramente evidenciado um grande aumento deste tipo de venda.
-
-A partir uma simples pesquisa no google, diversos sites fazem indicação e propagandas de produtos relacionados com foco em impulsionar vendas pela internet.
-
-De acordo com o Portal Industria (2023) Desenvolvimento sustentável é aquele capaz de suprir as necessidades atuais, sem comprometer a capacidade de atendimento das futuras gerações.
-
-O consumo acelerado de produtos e serviços, a obsolesencia programada faz com que diversos consumidores tenham que trocar produtos estragados ou comprometidos por outros produtos mais novos com muita frequência, as vezes produtos novos possuem as mesmas funções de que seus antecessores.
-
-De acordo com Macêdo (2009), os Estados Unidos descartam diversos produtos eletrônicos, poucos são recilados e o restante acaba em lixões.
-
-Esta não é apenas a realidade dos EUA, mas também dem muitos outros países.
-
-Neste contexto a solução a ser desenvolvida é um site e-commerce de produtos eletrônicos e de informáica, mais ligados do hardware que realiza a venda de produtos novos mas que também faz a coleta, manunteção, avaliação de produtos eletrônicos seminovos.
-
-Que podem ser vendidos por um preço mais em conta e que podem ser reutilizados por outras pessoas que geralmente não possuem condições de pagar por produto novos, pode-se suprir as necessidades atuais de pessoas que as vezes não tem acesso a estes eletrônicos e acesso à tecnologia, tornando o mundo cada vez mais conectado.
+Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 

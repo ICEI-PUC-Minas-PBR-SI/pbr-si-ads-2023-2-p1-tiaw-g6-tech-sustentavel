@@ -27,23 +27,16 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 
 |ID    | Descrição do Requisito | Prioridade | Artefato Criado |
 |------|------------------------|------------|-----------------|
-|RF-001| Login com redes sociais| MEDIA| tela-login.html |
-|RF-002| Listagem de Produtos| ALTA| produtos.html
-|RF-003| Adicionar detalhes do produto|	ALTA | produtos.html |
-|RF-004| Upload de fotos dos produtos| ALTA |  página_doador.html |
-|RF-005| Pesquisa de produtos por categoria| ALTA| index.html|
-|RF-006| Página com informações para contato   | MÉDIA | contato.html |
-|RF-007| Página com explicações sobre o projeto | MÉDIA | sobre.html |
+|RF-001| O sistema deve exibir as notícias mais populares. | ALTA | index.html |
+|RF-002| Usuários autenticados podem registrar novas notícias. | ALTA | cadastro-noticia.html |
 
 ## Descrição das estruturas:
 
 ## Notícia
 |  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
 |:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
-| Nome      | texto    | Nome Completo de quem precisa de doação         | Marcos Vicinius Maciel                                              |
-| Email       | Texto             | E-mail para contato com a pessoa que precisa de doação            | marcos@gmail.com                         |
-| Produto       | Texto             | Descriçao do produto anunciado no site | Notebook,Telefones Celulares   |
+| Id             | Numero (Inteiro)  | Identificador único da notícia            | 1                                              |
+| Título         | Texto             | Título da notícia                         | Sistemas de Informação PUC Minas é o melhor                                   |
+| Conteúdo       | Texto             | Conteúdo da notícia                       | Sistemas de Informação da PUC Minas é eleito o melhor curso do Brasil                            |
 | Id do usuário  | Numero (Inteiro)  | Identificador do usuário autor da notícia | 1                                              |
-| Carrosel |    Imagens |            | Identifica os links das imagens utilizadas nos destaques | ![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-g6-tech-sustentavel/assets/142277683/bf006865-603c-4c4e-a44a-ee6f61b4dddd)
-                                       |
 
