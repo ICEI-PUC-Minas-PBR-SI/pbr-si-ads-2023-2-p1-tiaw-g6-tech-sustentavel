@@ -26,31 +26,37 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 
 **Caso de Teste** | **CT01 - Listagem de Produtos**
 :--------------: | ------------
-**Procedimento**  | 1) Usuário acessa o botão "Produtos" disponível em qualquer uma das abas do site, aonde terá acesso a todos produtos cadastrados, além de ter a opção de cadastrar produtos. 
-**Requisitos associados** | RF-002 (Listagem de Produtos) e  RF-003 (Adicionar detalhes do produto)
-**Resultado esperado** | Exibição dos produtos já cadastrados ou cadastro de novos produtos/atributos do produto. 
-**Dados de entrada** | Inserção de dados válidos no formulário de cadastro ou ao clicar em produtos visualização dos produtos já cadastrados no sistema
+**Procedimento**  | 1) Usuário acessa o botão "Produtos" disponível em qualquer uma das abas do site e tem acesso aos produtos, caso estejam cadastrados na página de anuncios. 
+
+**Requisitos associados** | RF-002 (Listagem de Produtos) 
+**Resultado esperado** | Exibição dos produtos já cadastrados.
+**Dados de entrada** | Acessar o caminho chamado "Produtos" em qualquer uma das páginas do site.
 **Resultado obtido** | Sucesso.
 
 **Caso de Teste** | **CT02 - Upload de fotos de produtos**
 :--------------: | ------------
 **Procedimento**  | 1) O usuário acessa o caminho do site: "Sobre Nós", acessa a página do doador aonde deverá acessar o botão "Clique aqui para Iniciar a doação" existe uma opção para adicionar a descrição ao produto a ser doado, além disso existe uma opção que foi adaptada por possuir menor complexidade que é já inserir a URL da foto do produto que já foi carregada em um servidor de imagens. 
-**Requisitos associados** | RF-004
+
+2) O Usuário acessa a página de "Meus Anuncios"  e insere os dados necessários para cadastrar um produto, este caminho possui a mesma opção da página do doador que é inserir o URL da foto.
+   
+**Requisitos associados** | RF-004 
 **Resultado esperado** | Criação de cadastro do produto a ser doado inclusive permitir o envio da imagem. 
 **Dados de entrada** | Inserção de dados válidos no formulário de cadastro/ URL da foto
 **Resultado obtido** | Sucesso.
 
-**Caso de Teste** | **CT03 - Login/login com redes sociais**
+
+
+**Caso de Teste** | **CT03 - Login**
 :--------------: | ------------
 **Procedimento**  | 1) O usuário acessa o botão de login em qualquer uma das páginas do site e faz a inserção dos seguintes dados: 
 Nome completo, E-mail, Senha para criação da conta e posteriormente realiza o login com os dados cadastrados. 
 
 **Requisitos associados** | RF-001
 **Resultado esperado** | Criação de cadastro do perfil do usuário e realização de login com os dados inseridos.
-**Dados de entrada** | Inserção de dados válidos no formulário de cadastro
+**Dados de entrada** | Inserção de dados válidos no formulário de cadastro.
 **Resultado obtido** | Sucesso.
 
-**Caso de Teste** | **CT04 - pesquisa de Produtos por categoria**
+**Caso de Teste** | **CT04 - Pesquisa de Produtos**
 :--------------: | ------------
 **Procedimento**  | 1) O Usuário acessa a barra de pesquisa e faz a inserção de dados que serão pesquisados no site.
 **Requisitos associados** | RF-005
@@ -74,26 +80,66 @@ Nome completo, E-mail, Senha para criação da conta e posteriormente realiza o 
 **Dados de entrada** | Acessar o caminho correto da página "contatos"
 **Resultado obtido** | Sucesso.
 
+**Caso de Teste** | **CT07 - Adicionar os detalhes aos produtos**
+:--------------: | ------------
+**Procedimento**  | 1) O Usuário acessa o caminho "Meus Anuncios" acessa o botão "Cadastar Produto" e insere os seguintes dados: 
+Nome Produto, Descrição, Preço, Data
+
+**Requisitos associados** | RF-003
+**Resultado esperado** |Permitir a inserção dos dados inerentes ao produto. 
+**Dados de entrada** |  Nome Produto, Descrição, Preço, Data
+**Resultado obtido** | Sucesso.
 
 
 ## Registro dos Testes de Software
 
 Esta seção deve apresentar o relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado no plano de testes pré-definido. Documente cada caso de teste apresentando um vídeo ou animação que comprove o funcionamento da funcionalidade. Veja os exemplos a seguir.
 
-|*Caso de Teste*                                 |*TC-01 - Criar uma conta*                                         |
+|*Caso de Teste*                                 |*TC-01 - Listagem de Produtos*                                         |
 |---|---|
-|Requisito Associado | RF-004 - Usuários não autenticados podem se cadastrar para criar uma conta e serem autenticados.|
+|Requisito Associado | RF-002 - Listagem de Produtos|
 |Link do vídeo do teste realizado: | https://1drv.ms/u/s!AhD2JqpOUvJChapRtRSQ9vPzbNLwGA?e=mxZs6t| 
 
-|*Caso de Teste*                                 |*TC-02 - Efetuar Login (usuário autenticado)*                                         |
+|*Caso de Teste*                                 |*TC-02 - Upload de fotos de produtos**                                         |
 |---|---|
-|Requisito Associado | RF-004 - Usuários não autenticados podem se cadastrar para criar uma conta e serem autenticados.|
+|Requisito Associado | RF-004 - 	Upload de fotos dos produtos.|
 |Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
+
+
+|*Caso de Teste*                                 |*TC-03 - Login*                                         |
+|---|---|
+|Requisito Associado | RF-001 - Login com redes sociais.|
+|Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
+
+
+|*Caso de Teste*                                 |*TC-04 - Pesquisa de Produtos*                                         |
+|---|---|
+|Requisito Associado | RF-005 - Pesquisa de produtos|
+|Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
+
+|*Caso de Teste*                                 |*TC-05 - Página com explicações sobre o projeto*                                         |
+|---|---|
+|Requisito Associado | RF-007  - Página com explicações sobre o projeto. |
+|Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
+
+|*Caso de Teste*                                 |*TC-06 - Página com informações para contato*                                         |
+|---|---|
+|Requisito Associado | RF-006 - Página com informações para contato|
+|Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
+
+|*Caso de Teste*                                 |*TC-07 - Adicionar os detalhes aos produtos*                                         |
+|---|---|
+|Requisito Associado | RF-003 - Adicionar detalhes do produto |
+|Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
+
+
 
 
 ## Avaliação dos Testes de Software
 
-Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
+Os testes realiazados cumprem os requisitos mininimos de usabilidade para os usuários, apresentando mensagens sobre as ações que os usuários realizaram no sistema, bem como a persitência de dados em sistemas de armazenamento. 
+
+Diversos pontos podem ser melhorados, como por exemplo testes diretamente feitos com os usúarios da ferramenta e elicitação de novos requisitos com finalidade de reformular a aplicação e deixa-la mais intuitiva possível. 
 
 
 
