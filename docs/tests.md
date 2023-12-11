@@ -57,7 +57,7 @@ Nome completo, E-mail, Senha para criação da conta e posteriormente realiza o 
 
 **Caso de Teste** | **CT04 - pesquisa de Produtos por categoria **
  :--------------: | ------------
-**Procedimento**  | 1) O Usuário acessa barra de pesquisa e faz a inserção de dados que serão pesquisados no site 
+**Procedimento**  | 1) O Usuário acessa barra de pesquisa e faz a inserção de dados que serão pesquisados no site.
 
 **Requisitos associados** | RF-005
 **Resultado esperado** | Retorno de resultados em tela ou sugestões de pesquisa
