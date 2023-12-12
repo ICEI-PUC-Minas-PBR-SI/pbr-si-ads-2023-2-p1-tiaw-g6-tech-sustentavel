@@ -71,7 +71,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID    | Descrição do Requisito  | Prioridade | Responsável |
 |------|-----------------------------------------|----| ----|
 |RF-001| Permitir que o usuário cadastre tarefas | ALTA | Carlos Gabriel Silva Costa |
-|RF-002| Login com redes sociais| MEDIA| Jhosiane  |
+|RF-002| Login e cadastro de usuário| MEDIA| Jhosiane  |
 |RF-003| Listagem de Produtos| ALTA| Enzo Kurt Sales Almeida |
 |RF-004| Adicionar detalhes do produto|	ALTA | Henrique Taite Mendes  |
 |RF-005| Upload de fotos dos produtos| ALTA |  Jhonatan Agni Batista |
