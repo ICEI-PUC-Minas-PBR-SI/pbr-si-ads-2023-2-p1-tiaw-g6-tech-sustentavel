@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
 body {
-  background-color: #c9c4c4;
+  background-color: green;
 }
 
 :root{
@@ -18,7 +18,7 @@ body {
   height: auto;
 }
 h2 {
-        font-size: 30px; 
+        font-size: 40px; 
         font-weight: bold;
 }
 
@@ -85,7 +85,6 @@ p {
     height: auto; 
 }
 
-
 .card-body {
     text-align: center;
 }
@@ -110,4 +109,26 @@ article{
         }
 footer{
     background-color: var(--cor1);
+}
+
+/* Ajuste do formulário */
+#formCadastroProdutoModal {
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    margin: auto;
+    background-color: white;
+    padding: 20px;
+    border: 2px solid #74d612;
+    border-radius: 8px;
+}
+
+#formCadastroProdutoModal label {
+    margin-bottom: 8px;
+}
+
+#formCadastroProdutoModal input,
+#formCadastroProdutoModal textarea,
+#formCadastroProdutoModal button {
+    margin-bottom: 16px;
 }
