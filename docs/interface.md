@@ -7,7 +7,11 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ## User Flow
 
+<<<<<<< HEAD
 ![Solicitações](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-g6-tech-sustentavel/assets/142853949/4ca716c9-a061-4ff6-aab1-935a5722f089)
+=======
+![WhatsApp Image 2023-10-07 at 17 33 13](https://user-images.githubusercontent.com/142853949/273414068-c4923e13-87b2-4824-9550-dfe2c958e265.jpeg)
+>>>>>>> 4cb3746 (Update interface.md)
 
 Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
 
@@ -27,7 +31,11 @@ São protótipos usados em design de interface para sugerir a estrutura de um si
 
 A tela Inicial apresenta um cabeçalho onde se encontram a logo, uma barra de pesquisa, o login e algumas especificações do site. Um carousel e algumas especificações para doadores
 
+<<<<<<< HEAD
 ![Wireframe](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-g6-tech-sustentavel/assets/142853949/cb9ec792-14de-4d86-9b7b-e791303539c0) 
+=======
+![WhatsApp Image 2023-10-07 at 17 33 13](https://user-images.githubusercontent.com/142853949/273414068-c4923e13-87b2-4824-9550-dfe2c958e265.jpeg)
+>>>>>>> 4cb3746 (Update interface.md)
 
 > **Links Úteis**:
 > - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
