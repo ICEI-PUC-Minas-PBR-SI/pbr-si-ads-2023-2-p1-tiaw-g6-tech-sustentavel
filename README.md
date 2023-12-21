@@ -8,7 +8,8 @@
 
 `SEMESTRE: 2º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+A Ecotech veio com a ideia de transformar o lixo eletrônico em material aproveitável para pessoas carentes ou que queiram pagar um preço mais baixo por um dispositivo que ainda funciona.
+Doadores podem doar produtos eletrônicos que seriam jogados fora, para pessoas carentes que de repente só precisam de um material deste âmbito para começar uma carreira na tecnologia. Por fim, pessoas que queiram colecionar eletrônicos antigos também podem usufruir muito bem da plataforma, adquirindo uma doação ou comprando um item que poderia ser um lixo eletrônico. 
 
 ## Integrantes
 
